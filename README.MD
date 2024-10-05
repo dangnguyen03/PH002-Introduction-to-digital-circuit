@@ -7,15 +7,15 @@
 <br/>
 
 # Introduction to Digital Circuit
-📡 Comprehensive Resource for digital circuit Concepts 🌐
+📡 **Comprehensive Resource for digital circuit Concepts** 🌐
 
 This repository contains lab assignments and lecture slides for the Introduction to Digital Circuits course, offering essential resources for students and educators.
 
 
 # Features:
-- Lab Assignments: Hands-on exercises that reinforce key networking concepts and practical skills.
-- Lecture Slides: Downloadable presentations covering essential topics in computer networking.
-- Structured Organization: Easy navigation through materials organized by weeks and topics for efficient study.
+- **Lab Assignments**: Hands-on exercises that reinforce key networking concepts and practical skills.
+- **Lecture Slides**: Downloadable presentations covering essential topics in computer networking.
+- **Structured Organization**: Easy navigation through materials organized by weeks and topics for efficient study.
 
 Explore, learn, and deepen your knowledge of computer networks with these valuable resources!
 
